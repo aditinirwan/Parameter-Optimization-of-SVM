@@ -32,7 +32,7 @@ Number of Attributes: 8
 
 ## Discussion
 
-The graph is made for the sample which has best accuracy. Sample 1 has the best accuracy of 0.27 having kernel = rbf, Nu = 9.88 and Epsilon = 9.69.
+The graph is made for the sample which has best accuracy. Sample 3 has the best accuracy of 0.28 having kernel = rbf, Nu = 5.03 and Epsilon = 1.17
 
 
 ## Author
